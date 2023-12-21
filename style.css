@@ -75,7 +75,7 @@ header {
     ),
     url('images/header.jpg');
   background-position: center center;
-  background-size: center center;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
